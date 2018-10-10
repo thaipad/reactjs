@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "title": "Card 1",
+    "content": "Try Reactjs is awesome. Can't wait to learn more",
+    "slug": "card1",
+    "date": "1-28-2018"
+  },
+  {
+    "id": 2,
+    "title": "Card 2",
+    "content": "Setting up React is easy.",
+    "slug": "card2",
+    "date": "12-04-2017"
+  },
+  {
+    "id": 3,
+    "title": "New card",
+    "content": "Setting up React is easy.",
+    "slug": "card3",
+    "date": "12-06-2016"
+  },
+  {
+    "id": 4,
+    "title": "Other card",
+    "content": "Setting up React is easy.",
+    "slug": "card4",
+    "date": "10-07-2018"
+  },
+  {
+    "id": 5,
+    "title": "Very old card",
+    "content": "Setting up React is easy.",
+    "slug": "card5",
+    "date": "01-01-2015"
+  },
+  {
+    "id": 6,
+    "title": "Last month card",
+    "content": "Setting up React is easy.",
+    "slug": "card6",
+    "date": "08-01-2018"
+  },
+  {
+    "id": 7,
+    "title": "Fresh card",
+    "content": "Setting up React is easy.",
+    "slug": "card7",
+    "date": "11-02-2016"
+  },
+  {
+    "id": 8,
+    "title": "Unknown card",
+    "content": "Setting up React is easy.",
+    "slug": "card8",
+    "date": "01-01-2000"
+  }
+]

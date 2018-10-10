@@ -1,0 +1,25 @@
+h4, i, div, ul, label, input {
+    text-align: left;
+    font-style: normal;
+}
+
+h4 {
+    font-size: large;
+    font-weight: bold;
+}
+
+div, i, label, input {
+    font-size: medium;
+    font-weight: normal;
+}
+
+ul {
+    font-size: small;
+}
+
+.but {
+    font-size: small;
+    font-style: normal;
+    font-weight: normal;
+    alignment: right;
+}
